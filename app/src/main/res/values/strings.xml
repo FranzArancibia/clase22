@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">clase22</string>
+    <string name="txtPass">Contraseña</string>
+    <string name="txtNombre">Nombre</string>
+    <string name="txtTitulo">Ingrese sus credenciales</string>
+    <string name="btnActualizar">Actualizar</string>
+    <string name="btnGuardar">Guardar</string>
+
+
+</resources>
